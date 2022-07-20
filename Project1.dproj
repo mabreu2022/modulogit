@@ -115,6 +115,9 @@
         </DCCReference>
         <DCCReference Include="Unit4.pas">
             <Form>Form4</Form>
+        </DCCReference>
+        <DCCReference Include="Unit5.pas">
+            <Form>Form5</Form>
             <FormType>dfm</FormType>
         </DCCReference>
         <BuildConfiguration Include="Base">
