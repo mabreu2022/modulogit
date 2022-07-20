@@ -19,8 +19,8 @@ object Form1: TForm1
     Caption = 'Entre nome'
   end
   object Edit1: TEdit
-    Left = 120
-    Top = 38
+    Left = 128
+    Top = 78
     Width = 369
     Height = 23
     TabOrder = 0
