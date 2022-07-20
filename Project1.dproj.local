@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/25 18:30:13.000.814,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/14 11:43:28.000.878,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/14 11:50:45.000.751,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/21 10:59:44.000.038,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/20 15:30:27.000.927,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/20 15:31:11.095,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/20 15:31:27.004,C:\inetpub\wwwroot\modulogit\Unit1.pas=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/20 15:31:27.004,C:\inetpub\wwwroot\modulogit\Unit1.dfm=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/07/20 15:31:29.272,C:\inetpub\wwwroot\modulogit\Project1.dproj=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
