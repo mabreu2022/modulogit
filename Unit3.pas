@@ -9,10 +9,7 @@ uses
 type
   TForm3 = class(TForm)
     Memo1: TMemo;
-<<<<<<< HEAD
-=======
     Edit1: TEdit;
->>>>>>> 202c1c8602d263cdccec4b3d21becf1a4ab01b53
     Button1: TButton;
   private
     { Private declarations }
