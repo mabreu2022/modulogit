@@ -26,15 +26,4 @@ object Form4: TForm4
       ImageIndex = 1
     end
   end
-  object ToolBar1: TToolBar
-    Left = 0
-    Top = 0
-    Width = 622
-    Height = 29
-    Caption = 'ToolBar1'
-    TabOrder = 1
-    ExplicitLeft = 336
-    ExplicitTop = 400
-    ExplicitWidth = 150
-  end
 end
