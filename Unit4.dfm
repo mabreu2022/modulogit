@@ -15,8 +15,8 @@ object Form4: TForm4
     Left = 16
     Top = 16
     Width = 585
-    Height = 369
-    ActivePage = TabSheet1
+    Height = 409
+    ActivePage = TabSheet2
     TabOrder = 0
     object TabSheet1: TTabSheet
       Caption = 'TabSheet1'
@@ -25,16 +25,5 @@ object Form4: TForm4
       Caption = 'TabSheet2'
       ImageIndex = 1
     end
-  end
-  object ToolBar1: TToolBar
-    Left = 0
-    Top = 0
-    Width = 622
-    Height = 29
-    Caption = 'ToolBar1'
-    TabOrder = 1
-    ExplicitLeft = 336
-    ExplicitTop = 400
-    ExplicitWidth = 150
   end
 end

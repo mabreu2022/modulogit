@@ -11,7 +11,6 @@ type
     PageControl1: TPageControl;
     TabSheet1: TTabSheet;
     TabSheet2: TTabSheet;
-    ToolBar1: TToolBar;
   private
     { Private declarations }
   public
