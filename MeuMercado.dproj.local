@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/25 18:30:13.000.814,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/14 11:43:28.000.878,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/14 11:50:45.000.751,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/21 10:59:44.000.038,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/16 16:51:47.000.341,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/16 16:54:50.000.091,C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\99 Coders\CursoMercado\Fontes\Mobile\UnitLogin.fmx</Transaction>
+    <Transaction>2022/07/16 16:54:50.000.091,C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\99 Coders\CursoMercado\Fontes\Mobile\UnitLogin.pas</Transaction>
+    <Transaction>2022/07/16 16:54:55.000.216,C:\Users\conec\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\99 Coders\CursoMercado\Fontes\Mobile\MeuMercado.dproj</Transaction>
+    <Transaction>2022/07/17 16:25:23.000.896,=C:\99 Coders\CursoMercado\Fontes\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/07/17 16:25:48.000.371,C:\99 Coders\CursoMercado\Fontes\Mobile\Unit1.pas=C:\99 Coders\CursoMercado\Fontes\Mobile\UnitPrincipal.pas</Transaction>
+    <Transaction>2022/07/17 16:25:48.000.371,C:\99 Coders\CursoMercado\Fontes\Mobile\Unit1.fmx=C:\99 Coders\CursoMercado\Fontes\Mobile\UnitPrincipal.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
